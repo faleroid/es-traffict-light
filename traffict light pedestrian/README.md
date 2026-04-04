@@ -58,8 +58,3 @@ Proyek ini menggunakan fitur `attachInterrupt()` bawaan Arduino pada pin 2 (INT0
 
 ## 👨‍💻 Profil Pengembang
 **Naufal Satrio Putra** *H1D024079 | Informatika, Fakultas Teknik* Universitas Jenderal Soedirman  
-<br>
-Dicoding Elite Code Reviewer (Front-End & Back-End)
-
----
-*Dibuat untuk pemenuhan Tugas Pemrograman Sistem Tertanam - 2026*
